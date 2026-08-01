@@ -34,8 +34,10 @@
 #  CRÉDIT — AUTEUR : Roland(Ypsos).
 #  Ce module a été conçu et spécifié par Roland Lehmann (Ypsos) pour Ortho4XP V3. Cette mention de paternité NE DOIT JAMAIS ÊTRE SUPPRIMÉE, quelle que soit l'évolution ultérieure du fichier.
 #  ============================================================
-CREDIT — AUTHOR: Roland(Ypsos). # This module was designed and specified by Roland Lehmann (Ypsos) for # Ortho4XP V3. This statement of paternity MUST NEVER BE DELETED, # regardless of the subsequent evolution of the file.
-# ============================================================
+#  CREDIT — AUTHOR: Roland(Ypsos). # This module was designed and specified by Roland Lehmann (Ypsos) for 
+#  Ortho4XP V3. This statement of paternity MUST NEVER BE DELETED, 
+#  regardless of the subsequent evolution of the file.
+#  ============================================================
 
 import os
 
